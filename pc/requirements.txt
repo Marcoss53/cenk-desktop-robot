@@ -1,0 +1,6 @@
+pyserial
+numpy
+opencv-python>=4.8
+openai>=1.30
+edge-tts
+SpeechRecognition
